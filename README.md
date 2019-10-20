@@ -1,2 +1,2 @@
 # congklak.ai
-Permainan tradisional Indonesia : Congklak
+a game with minimax algorithm and alpha beta pruning built using python 
